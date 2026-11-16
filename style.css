@@ -1,0 +1,9 @@
+body { margin: 0; background: #0a0a0f; color: #f2efe6; font: 16px/1.65 Inter, "Segoe UI", system-ui, sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 48px 20px 80px; }
+h1 { font-size: 34px; line-height: 1.2; margin: 8px 0; border-bottom: 3px solid #e5383b; padding-bottom: 12px; }
+h2 { font-size: 19px; margin-top: 32px; }
+a { color: #ffd23f; }
+.muted { color: #8a8a99; }
+table { border-collapse: collapse; width: 100%; font-size: 14px; }
+th, td { text-align: left; padding: 8px; border-bottom: 1px solid #2a2a38; vertical-align: top; }
+code { background: #16161f; padding: 1px 5px; border-radius: 4px; }
